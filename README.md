@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/EuniceCristina/EuniceCristina/"><img width="100%" height="10%" src="https://d1fdkikjl8lfjy.cloudfront.net/wp-content/uploads/2020/01/Sites-de-divulgacao-cientifica-sao-importantes-aliados-de-professores-da-area-para-atividades-com-estudantes-InfoGeekie-scaled.jpg" /></a></p>
+<p align="center"><a href="https://github.com/EuniceCristina/EuniceCristina/"><img width="290px" height="10%" src="https://d1fdkikjl8lfjy.cloudfront.net/wp-content/uploads/2020/01/Sites-de-divulgacao-cientifica-sao-importantes-aliados-de-professores-da-area-para-atividades-com-estudantes-InfoGeekie-scaled.jpg" /></a></p>
 
 Technical Intern in Internet Computing
 
