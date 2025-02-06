@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.kaspersky.com.br/content/pt-br/images/repository/isc/2017-images/virus-img-08.jpg"><img width="290px" src="gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/EuniceCristina/EuniceCristina/"><img width="290px" src="https://www.kaspersky.com.br/content/pt-br/images/repository/isc/2017-images/virus-img-08.jpg" /></a></p>
 
 Technical Intern in Internet Computing
 
