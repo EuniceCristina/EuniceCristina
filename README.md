@@ -12,7 +12,7 @@ Technical Trainee in Internet Computing
 
 - 📫 To contact me, email: **.**
 
-| <a href="https://github.com/EuniceCristina/EuniceCrisitna"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EuniceCristina&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="André's github stats" /></a> | <a href="https://github.com/EuniceCristina/EuniceCristina"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuniceCristina&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| <a href="https://github.com/EuniceCristina/EuniceCrisitna"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EuniceCristina&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Eunice Cristina's github stats" /></a> | <a href="https://github.com/EuniceCristina/EuniceCristina"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuniceCristina&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,nodejs,github,figma,bootstrap,django,flask,mysql&theme=dark)](https://skillicons.dev)
