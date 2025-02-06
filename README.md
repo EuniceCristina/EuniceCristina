@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/EuniceCristina/EuniceCristina/"><img width="100%" height="200px" src="https://png.pngtree.com/background/20210712/original/pngtree-computer-technology-background-template-picture-image_1183053.jpg" /></a></p>
+<p align="center"><a href="https://github.com/EuniceCristina/EuniceCristina/"><img width="100%" height="250px" src="https://png.pngtree.com/background/20210712/original/pngtree-computer-technology-background-template-picture-image_1183053.jpg" /></a></p>
 
 Technical Intern in Internet Computing
 
