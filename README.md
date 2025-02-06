@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/EuniceCristina"><img width="290px" src="gh-readme-header.png" /></a></p>
+<p align="center"><a href="[https://github.com/EuniceCristina](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLfrgQ0Pl3sohkAA8RYmT33o2RjZt43S44BQ&s)"><img width="290px" src="gh-readme-header.png" /></a></p>
 
 Technical Intern in Internet Computing
 
